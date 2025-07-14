@@ -1,17 +1,4 @@
-   <script>
-        tailwind.config = {
-            theme: {
-                extend: {
-                    colors: {
-                        primary: '#9376e0',
-                        secondary: '#e893cf',
-                        'bike-primary': '#e76f51',
-                    },
-                    fontFamily: {
-                        poppins: ['Poppins', 'sans-serif'],
-                        'eb-garamond': ['EB Garamond', 'serif'],
-                    },
-                },
-            },
-        }
-    </script>
+ <div class="flex items-center gap-2">
+                        <img src="./images/logo.png" alt="Logo" class="h-12" />
+                        <h1 class="font-eb text-3xl font-bold">Justice</h1>
+   </div>
